@@ -1,0 +1,8 @@
+Part 2:
+- queries: 20/20
+Part 3:
+- queries 1-7: 14/14
+- queries 7-14: 21/21
+- optimization: 10/10
+
+Great job!
